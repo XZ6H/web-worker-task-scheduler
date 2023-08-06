@@ -1,0 +1,12 @@
+{
+  "name": "web-worker-task-scheduler",
+  "version": "1.0.0",
+  "description": "A task scheduler based on Web Workers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["web-workers", "task", "scheduler"],
+  "author": "XZ6H <XZ6H@users.noreply.github.com>",
+  "license": "MIT"
+}
