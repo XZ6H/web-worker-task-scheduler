@@ -85,9 +85,6 @@ scheduler.start();
 - **Learning Curve**: Requires understanding of Web Workers.
 - **Compatibility**: Web Workers are not available in all environments, like certain Node.js scenarios.
 
-## Contributing
-
-Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
 
 ## License
 
